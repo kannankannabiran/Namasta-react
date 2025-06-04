@@ -68,3 +68,11 @@ h4{
     display: flex;
     flex-wrap: wrap;
 }
+.filter_btn{
+    background: green;
+    color: #fff;
+    margin: 10px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
